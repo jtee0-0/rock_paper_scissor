@@ -1,1 +1,1 @@
-# a basic rock, paper, scissors code in python 
+# a simple rock paper scissors code to play with computer.
