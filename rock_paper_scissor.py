@@ -1,16 +1,4 @@
-'''class yeet:
-	def __init__(meep):
-		meep.name = input('enter name = ')
-		meep.age = int(input('enter age = '))
-
-	def greet(meep):
-		print('helo ' + meep.name)
-
-ehh = yeet()
-ehh.greet()
-print(meep.age)'''
 import random
-
 class game:
 	def __init__(meep):
 		play = 'yes'
